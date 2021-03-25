@@ -1,3 +1,7 @@
+## My javadoc 
+
+[Click here ](https://github.com/ndergal/test-publishing-javadoc/index.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ndergal/test-publishing-javadoc/edit/main/README.md) to maintain and preview the content for your website in Markdown files.

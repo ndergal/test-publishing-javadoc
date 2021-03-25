@@ -1,6 +1,6 @@
 ## My javadoc 
 
-[Click here ](https://github.com/ndergal/test-publishing-javadoc/index.html)
+[Click here ](https://github.com/ndergal/test-publishing-javadoc/javadoc/index.html)
 
 ## Welcome to GitHub Pages
 
